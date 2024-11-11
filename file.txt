@@ -2,10 +2,5 @@ x=2
 y=3
 z=x+y 
 and z =xy
-=======
-z=x+y
-
-another sentence
-
-abid is my name 
->>>>>>> 74b2eb4 (new sentence)
+ 
+ rebase edited 
